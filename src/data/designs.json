@@ -1,0 +1,1173 @@
+{
+ "banners": [
+  {
+   "src": "/media/design/banners/01.webp",
+   "thumb": "/media/design/banners/01-sm.webp",
+   "w": 1600,
+   "h": 533,
+   "from": "Banners/Banners/01.png"
+  },
+  {
+   "src": "/media/design/banners/02.webp",
+   "thumb": "/media/design/banners/02-sm.webp",
+   "w": 1600,
+   "h": 800,
+   "from": "Banners/Banners/02.png"
+  },
+  {
+   "src": "/media/design/banners/03.webp",
+   "thumb": "/media/design/banners/03-sm.webp",
+   "w": 1600,
+   "h": 800,
+   "from": "Banners/Banners/03.png"
+  },
+  {
+   "src": "/media/design/banners/04.webp",
+   "thumb": "/media/design/banners/04-sm.webp",
+   "w": 1600,
+   "h": 800,
+   "from": "Banners/Banners/04.png"
+  },
+  {
+   "src": "/media/design/banners/05.webp",
+   "thumb": "/media/design/banners/05-sm.webp",
+   "w": 1600,
+   "h": 800,
+   "from": "Banners/Banners/05.png"
+  },
+  {
+   "src": "/media/design/banners/06.webp",
+   "thumb": "/media/design/banners/06-sm.webp",
+   "w": 1600,
+   "h": 800,
+   "from": "Banners/Banners/06.png"
+  },
+  {
+   "src": "/media/design/banners/07.webp",
+   "thumb": "/media/design/banners/07-sm.webp",
+   "w": 1600,
+   "h": 800,
+   "from": "Banners/Banners/07.png"
+  },
+  {
+   "src": "/media/design/banners/08.webp",
+   "thumb": "/media/design/banners/08-sm.webp",
+   "w": 1600,
+   "h": 800,
+   "from": "Banners/Banners/08.png"
+  },
+  {
+   "src": "/media/design/banners/09.webp",
+   "thumb": "/media/design/banners/09-sm.webp",
+   "w": 1600,
+   "h": 800,
+   "from": "Banners/Banners/09.png"
+  },
+  {
+   "src": "/media/design/banners/10.webp",
+   "thumb": "/media/design/banners/10-sm.webp",
+   "w": 1600,
+   "h": 800,
+   "from": "Banners/Banners/10.png"
+  },
+  {
+   "src": "/media/design/banners/11.webp",
+   "thumb": "/media/design/banners/11-sm.webp",
+   "w": 1600,
+   "h": 800,
+   "from": "Banners/Banners/11.png"
+  },
+  {
+   "src": "/media/design/banners/12.webp",
+   "thumb": "/media/design/banners/12-sm.webp",
+   "w": 1600,
+   "h": 800,
+   "from": "Banners/Banners/12.png"
+  }
+ ],
+ "trade-show-booths": [
+  {
+   "src": "/media/design/trade-show-booths/01.webp",
+   "thumb": "/media/design/trade-show-booths/01-sm.webp",
+   "w": 1600,
+   "h": 973,
+   "from": "Booth/booth/1b.png"
+  },
+  {
+   "src": "/media/design/trade-show-booths/02.webp",
+   "thumb": "/media/design/trade-show-booths/02-sm.webp",
+   "w": 1254,
+   "h": 1254,
+   "from": "Booth/booth/02B.png"
+  },
+  {
+   "src": "/media/design/trade-show-booths/03.webp",
+   "thumb": "/media/design/trade-show-booths/03-sm.webp",
+   "w": 1330,
+   "h": 1182,
+   "from": "Booth/booth/03b.png"
+  },
+  {
+   "src": "/media/design/trade-show-booths/04.webp",
+   "thumb": "/media/design/trade-show-booths/04-sm.webp",
+   "w": 1254,
+   "h": 1254,
+   "from": "Booth/booth/04b.png"
+  },
+  {
+   "src": "/media/design/trade-show-booths/05.webp",
+   "thumb": "/media/design/trade-show-booths/05-sm.webp",
+   "w": 1536,
+   "h": 1024,
+   "from": "Booth/booth/05b.png"
+  },
+  {
+   "src": "/media/design/trade-show-booths/06.webp",
+   "thumb": "/media/design/trade-show-booths/06-sm.webp",
+   "w": 1254,
+   "h": 1254,
+   "from": "Booth/booth/06b.png"
+  },
+  {
+   "src": "/media/design/trade-show-booths/07.webp",
+   "thumb": "/media/design/trade-show-booths/07-sm.webp",
+   "w": 1254,
+   "h": 1254,
+   "from": "Booth/booth/08b.png"
+  },
+  {
+   "src": "/media/design/trade-show-booths/08.webp",
+   "thumb": "/media/design/trade-show-booths/08-sm.webp",
+   "w": 1536,
+   "h": 1024,
+   "from": "Booth/booth/09b.png"
+  },
+  {
+   "src": "/media/design/trade-show-booths/09.webp",
+   "thumb": "/media/design/trade-show-booths/09-sm.webp",
+   "w": 1592,
+   "h": 988,
+   "from": "Booth/booth/10B.png"
+  }
+ ],
+ "brochures": [
+  {
+   "src": "/media/design/brochures/01.webp",
+   "thumb": "/media/design/brochures/01-sm.webp",
+   "w": 1536,
+   "h": 1024,
+   "from": "Brochure/Brochure/01.png"
+  },
+  {
+   "src": "/media/design/brochures/02.webp",
+   "thumb": "/media/design/brochures/02-sm.webp",
+   "w": 1536,
+   "h": 1024,
+   "from": "Brochure/Brochure/02.png"
+  },
+  {
+   "src": "/media/design/brochures/03.webp",
+   "thumb": "/media/design/brochures/03-sm.webp",
+   "w": 1536,
+   "h": 1024,
+   "from": "Brochure/Brochure/03.png"
+  },
+  {
+   "src": "/media/design/brochures/04.webp",
+   "thumb": "/media/design/brochures/04-sm.webp",
+   "w": 1536,
+   "h": 1024,
+   "from": "Brochure/Brochure/04.png"
+  },
+  {
+   "src": "/media/design/brochures/05.webp",
+   "thumb": "/media/design/brochures/05-sm.webp",
+   "w": 1536,
+   "h": 1024,
+   "from": "Brochure/Brochure/05.png"
+  },
+  {
+   "src": "/media/design/brochures/06.webp",
+   "thumb": "/media/design/brochures/06-sm.webp",
+   "w": 1536,
+   "h": 1024,
+   "from": "Brochure/Brochure/06.png"
+  },
+  {
+   "src": "/media/design/brochures/07.webp",
+   "thumb": "/media/design/brochures/07-sm.webp",
+   "w": 1536,
+   "h": 1024,
+   "from": "Brochure/Brochure/07.png"
+  },
+  {
+   "src": "/media/design/brochures/08.webp",
+   "thumb": "/media/design/brochures/08-sm.webp",
+   "w": 1536,
+   "h": 1024,
+   "from": "Brochure/Brochure/08.png"
+  },
+  {
+   "src": "/media/design/brochures/09.webp",
+   "thumb": "/media/design/brochures/09-sm.webp",
+   "w": 1536,
+   "h": 1024,
+   "from": "Brochure/Brochure/09.png"
+  }
+ ],
+ "business-cards": [
+  {
+   "src": "/media/design/business-cards/01.webp",
+   "thumb": "/media/design/business-cards/01-sm.webp",
+   "w": 1600,
+   "h": 1217,
+   "from": "Business Card/business card/01.png"
+  },
+  {
+   "src": "/media/design/business-cards/02.webp",
+   "thumb": "/media/design/business-cards/02-sm.webp",
+   "w": 1224,
+   "h": 931,
+   "from": "Business Card/business card/01A.png"
+  },
+  {
+   "src": "/media/design/business-cards/03.webp",
+   "thumb": "/media/design/business-cards/03-sm.webp",
+   "w": 1600,
+   "h": 1217,
+   "from": "Business Card/business card/01B.png"
+  },
+  {
+   "src": "/media/design/business-cards/04.webp",
+   "thumb": "/media/design/business-cards/04-sm.webp",
+   "w": 1600,
+   "h": 1217,
+   "from": "Business Card/business card/01c.png"
+  },
+  {
+   "src": "/media/design/business-cards/05.webp",
+   "thumb": "/media/design/business-cards/05-sm.webp",
+   "w": 918,
+   "h": 698,
+   "from": "Business Card/business card/01d.png"
+  },
+  {
+   "src": "/media/design/business-cards/06.webp",
+   "thumb": "/media/design/business-cards/06-sm.webp",
+   "w": 1600,
+   "h": 1217,
+   "from": "Business Card/business card/01e.png"
+  },
+  {
+   "src": "/media/design/business-cards/07.webp",
+   "thumb": "/media/design/business-cards/07-sm.webp",
+   "w": 1102,
+   "h": 838,
+   "from": "Business Card/business card/01f.png"
+  },
+  {
+   "src": "/media/design/business-cards/08.webp",
+   "thumb": "/media/design/business-cards/08-sm.webp",
+   "w": 1495,
+   "h": 1052,
+   "from": "Business Card/business card/02.png"
+  },
+  {
+   "src": "/media/design/business-cards/09.webp",
+   "thumb": "/media/design/business-cards/09-sm.webp",
+   "w": 1448,
+   "h": 1086,
+   "from": "Business Card/business card/02a.png"
+  },
+  {
+   "src": "/media/design/business-cards/10.webp",
+   "thumb": "/media/design/business-cards/10-sm.webp",
+   "w": 1448,
+   "h": 1086,
+   "from": "Business Card/business card/02b.png"
+  },
+  {
+   "src": "/media/design/business-cards/11.webp",
+   "thumb": "/media/design/business-cards/11-sm.webp",
+   "w": 1487,
+   "h": 1058,
+   "from": "Business Card/business card/02C.png"
+  },
+  {
+   "src": "/media/design/business-cards/12.webp",
+   "thumb": "/media/design/business-cards/12-sm.webp",
+   "w": 1060,
+   "h": 1484,
+   "from": "Business Card/business card/02d.png"
+  },
+  {
+   "src": "/media/design/business-cards/13.webp",
+   "thumb": "/media/design/business-cards/13-sm.webp",
+   "w": 1487,
+   "h": 1058,
+   "from": "Business Card/business card/02e.png"
+  },
+  {
+   "src": "/media/design/business-cards/14.webp",
+   "thumb": "/media/design/business-cards/14-sm.webp",
+   "w": 1060,
+   "h": 1484,
+   "from": "Business Card/business card/02f.png"
+  },
+  {
+   "src": "/media/design/business-cards/15.webp",
+   "thumb": "/media/design/business-cards/15-sm.webp",
+   "w": 1060,
+   "h": 1484,
+   "from": "Business Card/02g.png"
+  }
+ ],
+ "flyers": [
+  {
+   "src": "/media/design/flyers/01.webp",
+   "thumb": "/media/design/flyers/01-sm.webp",
+   "w": 1254,
+   "h": 1254,
+   "from": "Flyer/FLYER/Design 01.png"
+  },
+  {
+   "src": "/media/design/flyers/02.webp",
+   "thumb": "/media/design/flyers/02-sm.webp",
+   "w": 1254,
+   "h": 1254,
+   "from": "Flyer/FLYER/Design 02.png"
+  },
+  {
+   "src": "/media/design/flyers/03.webp",
+   "thumb": "/media/design/flyers/03-sm.webp",
+   "w": 1254,
+   "h": 1254,
+   "from": "Flyer/FLYER/Design 03.png"
+  },
+  {
+   "src": "/media/design/flyers/04.webp",
+   "thumb": "/media/design/flyers/04-sm.webp",
+   "w": 1254,
+   "h": 1254,
+   "from": "Flyer/FLYER/Design 04.png"
+  },
+  {
+   "src": "/media/design/flyers/05.webp",
+   "thumb": "/media/design/flyers/05-sm.webp",
+   "w": 1254,
+   "h": 1254,
+   "from": "Flyer/FLYER/Design 05.png"
+  },
+  {
+   "src": "/media/design/flyers/06.webp",
+   "thumb": "/media/design/flyers/06-sm.webp",
+   "w": 1254,
+   "h": 1254,
+   "from": "Flyer/FLYER/Design 06.png"
+  },
+  {
+   "src": "/media/design/flyers/07.webp",
+   "thumb": "/media/design/flyers/07-sm.webp",
+   "w": 1254,
+   "h": 1254,
+   "from": "Flyer/FLYER/Design 07.png"
+  },
+  {
+   "src": "/media/design/flyers/08.webp",
+   "thumb": "/media/design/flyers/08-sm.webp",
+   "w": 1254,
+   "h": 1254,
+   "from": "Flyer/FLYER/Design 08.png"
+  },
+  {
+   "src": "/media/design/flyers/09.webp",
+   "thumb": "/media/design/flyers/09-sm.webp",
+   "w": 1254,
+   "h": 1254,
+   "from": "Flyer/FLYER/Design 09.png"
+  },
+  {
+   "src": "/media/design/flyers/10.webp",
+   "thumb": "/media/design/flyers/10-sm.webp",
+   "w": 1312,
+   "h": 1199,
+   "from": "Flyer/FLYER/Design 10.png"
+  },
+  {
+   "src": "/media/design/flyers/11.webp",
+   "thumb": "/media/design/flyers/11-sm.webp",
+   "w": 1254,
+   "h": 1254,
+   "from": "Flyer/FLYER/Design 11.png"
+  },
+  {
+   "src": "/media/design/flyers/12.webp",
+   "thumb": "/media/design/flyers/12-sm.webp",
+   "w": 1254,
+   "h": 1254,
+   "from": "Flyer/FLYER/Design 12.png"
+  }
+ ],
+ "infographics": [
+  {
+   "src": "/media/design/infographics/01.webp",
+   "thumb": "/media/design/infographics/01-sm.webp",
+   "w": 1122,
+   "h": 1402,
+   "from": "Infographic/infographics/01b.png"
+  },
+  {
+   "src": "/media/design/infographics/02.webp",
+   "thumb": "/media/design/infographics/02-sm.webp",
+   "w": 1122,
+   "h": 1402,
+   "from": "Infographic/infographics/02b.png"
+  },
+  {
+   "src": "/media/design/infographics/03.webp",
+   "thumb": "/media/design/infographics/03-sm.webp",
+   "w": 1122,
+   "h": 1402,
+   "from": "Infographic/infographics/03b.png"
+  },
+  {
+   "src": "/media/design/infographics/04.webp",
+   "thumb": "/media/design/infographics/04-sm.webp",
+   "w": 1122,
+   "h": 1402,
+   "from": "Infographic/infographics/04b.png"
+  },
+  {
+   "src": "/media/design/infographics/05.webp",
+   "thumb": "/media/design/infographics/05-sm.webp",
+   "w": 1122,
+   "h": 1402,
+   "from": "Infographic/infographics/05b.png"
+  },
+  {
+   "src": "/media/design/infographics/06.webp",
+   "thumb": "/media/design/infographics/06-sm.webp",
+   "w": 1122,
+   "h": 1402,
+   "from": "Infographic/infographics/06b.png"
+  },
+  {
+   "src": "/media/design/infographics/07.webp",
+   "thumb": "/media/design/infographics/07-sm.webp",
+   "w": 1122,
+   "h": 1402,
+   "from": "Infographic/infographics/07b.png"
+  }
+ ],
+ "labels": [
+  {
+   "src": "/media/design/labels/01.webp",
+   "thumb": "/media/design/labels/01-sm.webp",
+   "w": 1448,
+   "h": 1086,
+   "from": "Label/Label/01B.png"
+  },
+  {
+   "src": "/media/design/labels/02.webp",
+   "thumb": "/media/design/labels/02-sm.webp",
+   "w": 1448,
+   "h": 1086,
+   "from": "Label/Label/02B.png"
+  },
+  {
+   "src": "/media/design/labels/03.webp",
+   "thumb": "/media/design/labels/03-sm.webp",
+   "w": 1448,
+   "h": 1086,
+   "from": "Label/Label/03B.png"
+  },
+  {
+   "src": "/media/design/labels/04.webp",
+   "thumb": "/media/design/labels/04-sm.webp",
+   "w": 1448,
+   "h": 1086,
+   "from": "Label/Label/04B.png"
+  },
+  {
+   "src": "/media/design/labels/05.webp",
+   "thumb": "/media/design/labels/05-sm.webp",
+   "w": 1448,
+   "h": 1086,
+   "from": "Label/Label/05B.png"
+  },
+  {
+   "src": "/media/design/labels/06.webp",
+   "thumb": "/media/design/labels/06-sm.webp",
+   "w": 1448,
+   "h": 1086,
+   "from": "Label/Label/06B.png"
+  },
+  {
+   "src": "/media/design/labels/07.webp",
+   "thumb": "/media/design/labels/07-sm.webp",
+   "w": 1448,
+   "h": 1086,
+   "from": "Label/Label/07B.png"
+  },
+  {
+   "src": "/media/design/labels/08.webp",
+   "thumb": "/media/design/labels/08-sm.webp",
+   "w": 1448,
+   "h": 1086,
+   "from": "Label/Label/08B.png"
+  },
+  {
+   "src": "/media/design/labels/09.webp",
+   "thumb": "/media/design/labels/09-sm.webp",
+   "w": 1448,
+   "h": 1086,
+   "from": "Label/Label/09B.png"
+  },
+  {
+   "src": "/media/design/labels/10.webp",
+   "thumb": "/media/design/labels/10-sm.webp",
+   "w": 1448,
+   "h": 1086,
+   "from": "Label/Label/10B.png"
+  }
+ ],
+ "letterheads": [
+  {
+   "src": "/media/design/letterheads/01.webp",
+   "thumb": "/media/design/letterheads/01-sm.webp",
+   "w": 1536,
+   "h": 1024,
+   "from": "Letterhead/LH/01.png"
+  },
+  {
+   "src": "/media/design/letterheads/02.webp",
+   "thumb": "/media/design/letterheads/02-sm.webp",
+   "w": 1536,
+   "h": 1024,
+   "from": "Letterhead/LH/02.png"
+  },
+  {
+   "src": "/media/design/letterheads/03.webp",
+   "thumb": "/media/design/letterheads/03-sm.webp",
+   "w": 1536,
+   "h": 1024,
+   "from": "Letterhead/LH/03.png"
+  },
+  {
+   "src": "/media/design/letterheads/04.webp",
+   "thumb": "/media/design/letterheads/04-sm.webp",
+   "w": 1536,
+   "h": 1024,
+   "from": "Letterhead/LH/04.png"
+  },
+  {
+   "src": "/media/design/letterheads/05.webp",
+   "thumb": "/media/design/letterheads/05-sm.webp",
+   "w": 1536,
+   "h": 1024,
+   "from": "Letterhead/LH/05.png"
+  },
+  {
+   "src": "/media/design/letterheads/06.webp",
+   "thumb": "/media/design/letterheads/06-sm.webp",
+   "w": 1448,
+   "h": 1086,
+   "from": "Letterhead/LH/06.png"
+  },
+  {
+   "src": "/media/design/letterheads/07.webp",
+   "thumb": "/media/design/letterheads/07-sm.webp",
+   "w": 1536,
+   "h": 1024,
+   "from": "Letterhead/LH/07.png"
+  },
+  {
+   "src": "/media/design/letterheads/08.webp",
+   "thumb": "/media/design/letterheads/08-sm.webp",
+   "w": 1536,
+   "h": 1024,
+   "from": "Letterhead/LH/08.png"
+  }
+ ],
+ "logo-design": [
+  {
+   "src": "/media/design/logo-design/01.webp",
+   "thumb": "/media/design/logo-design/01-sm.webp",
+   "w": 1526,
+   "h": 1030,
+   "from": "Logo/logo/01.png"
+  },
+  {
+   "src": "/media/design/logo-design/02.webp",
+   "thumb": "/media/design/logo-design/02-sm.webp",
+   "w": 1530,
+   "h": 1028,
+   "from": "Logo/logo/02.png"
+  },
+  {
+   "src": "/media/design/logo-design/03.webp",
+   "thumb": "/media/design/logo-design/03-sm.webp",
+   "w": 1526,
+   "h": 1030,
+   "from": "Logo/logo/03.png"
+  },
+  {
+   "src": "/media/design/logo-design/04.webp",
+   "thumb": "/media/design/logo-design/04-sm.webp",
+   "w": 1536,
+   "h": 1024,
+   "from": "Logo/logo/04.png"
+  },
+  {
+   "src": "/media/design/logo-design/05.webp",
+   "thumb": "/media/design/logo-design/05-sm.webp",
+   "w": 1448,
+   "h": 1086,
+   "from": "Logo/logo/05.png"
+  },
+  {
+   "src": "/media/design/logo-design/06.webp",
+   "thumb": "/media/design/logo-design/06-sm.webp",
+   "w": 1526,
+   "h": 1030,
+   "from": "Logo/logo/06.png"
+  },
+  {
+   "src": "/media/design/logo-design/07.webp",
+   "thumb": "/media/design/logo-design/07-sm.webp",
+   "w": 1526,
+   "h": 1030,
+   "from": "Logo/logo/07.png"
+  },
+  {
+   "src": "/media/design/logo-design/08.webp",
+   "thumb": "/media/design/logo-design/08-sm.webp",
+   "w": 1526,
+   "h": 1030,
+   "from": "Logo/logo/08.png"
+  },
+  {
+   "src": "/media/design/logo-design/09.webp",
+   "thumb": "/media/design/logo-design/09-sm.webp",
+   "w": 1526,
+   "h": 1030,
+   "from": "Logo/logo/9.png"
+  },
+  {
+   "src": "/media/design/logo-design/10.webp",
+   "thumb": "/media/design/logo-design/10-sm.webp",
+   "w": 1448,
+   "h": 1086,
+   "from": "Logo/logo/10.png"
+  },
+  {
+   "src": "/media/design/logo-design/11.webp",
+   "thumb": "/media/design/logo-design/11-sm.webp",
+   "w": 1448,
+   "h": 1086,
+   "from": "Logo/logo/11.png"
+  },
+  {
+   "src": "/media/design/logo-design/12.webp",
+   "thumb": "/media/design/logo-design/12-sm.webp",
+   "w": 1254,
+   "h": 1254,
+   "from": "Logo/logo/12.png"
+  }
+ ],
+ "menu-design": [
+  {
+   "src": "/media/design/menu-design/01.webp",
+   "thumb": "/media/design/menu-design/01-sm.webp",
+   "w": 1448,
+   "h": 1086,
+   "from": "Menu Design/01b.png"
+  },
+  {
+   "src": "/media/design/menu-design/02.webp",
+   "thumb": "/media/design/menu-design/02-sm.webp",
+   "w": 1448,
+   "h": 1086,
+   "from": "Menu Design/4e16aa23-f055-479f-b0fe-653521ba2f60.png"
+  },
+  {
+   "src": "/media/design/menu-design/03.webp",
+   "thumb": "/media/design/menu-design/03-sm.webp",
+   "w": 1145,
+   "h": 1374,
+   "from": "Menu Design/5cccd9cc-48b7-421d-8f76-fd8f14efa5ef.png"
+  },
+  {
+   "src": "/media/design/menu-design/04.webp",
+   "thumb": "/media/design/menu-design/04-sm.webp",
+   "w": 1448,
+   "h": 1086,
+   "from": "Menu Design/8f6d07c9-19c7-489f-a2c5-40e1bb7ab677.png"
+  },
+  {
+   "src": "/media/design/menu-design/05.webp",
+   "thumb": "/media/design/menu-design/05-sm.webp",
+   "w": 1145,
+   "h": 1374,
+   "from": "Menu Design/22c73705-53e3-4db6-9424-5b80090ab898.png"
+  },
+  {
+   "src": "/media/design/menu-design/06.webp",
+   "thumb": "/media/design/menu-design/06-sm.webp",
+   "w": 1536,
+   "h": 1024,
+   "from": "Menu Design/25cdd1af-98e8-4577-b05b-cba9b52c8de1.png"
+  },
+  {
+   "src": "/media/design/menu-design/07.webp",
+   "thumb": "/media/design/menu-design/07-sm.webp",
+   "w": 1448,
+   "h": 1086,
+   "from": "Menu Design/77b3fcff-4f12-460f-ad46-5c904a81b88b.png"
+  },
+  {
+   "src": "/media/design/menu-design/08.webp",
+   "thumb": "/media/design/menu-design/08-sm.webp",
+   "w": 1448,
+   "h": 1086,
+   "from": "Menu Design/64264ff3-93aa-4925-b660-c815650a3de5.png"
+  },
+  {
+   "src": "/media/design/menu-design/09.webp",
+   "thumb": "/media/design/menu-design/09-sm.webp",
+   "w": 1122,
+   "h": 1402,
+   "from": "Menu Design/fdfd.png"
+  }
+ ],
+ "packaging": [
+  {
+   "src": "/media/design/packaging/01.webp",
+   "thumb": "/media/design/packaging/01-sm.webp",
+   "w": 1448,
+   "h": 1086,
+   "from": "Packaging/Packaging/01.png"
+  },
+  {
+   "src": "/media/design/packaging/02.webp",
+   "thumb": "/media/design/packaging/02-sm.webp",
+   "w": 1448,
+   "h": 1086,
+   "from": "Packaging/Packaging/02.png"
+  },
+  {
+   "src": "/media/design/packaging/03.webp",
+   "thumb": "/media/design/packaging/03-sm.webp",
+   "w": 1448,
+   "h": 1086,
+   "from": "Packaging/Packaging/03.png"
+  },
+  {
+   "src": "/media/design/packaging/04.webp",
+   "thumb": "/media/design/packaging/04-sm.webp",
+   "w": 1448,
+   "h": 1086,
+   "from": "Packaging/Packaging/04.png"
+  },
+  {
+   "src": "/media/design/packaging/05.webp",
+   "thumb": "/media/design/packaging/05-sm.webp",
+   "w": 1448,
+   "h": 1086,
+   "from": "Packaging/Packaging/05.png"
+  },
+  {
+   "src": "/media/design/packaging/06.webp",
+   "thumb": "/media/design/packaging/06-sm.webp",
+   "w": 1448,
+   "h": 1086,
+   "from": "Packaging/Packaging/06.png"
+  },
+  {
+   "src": "/media/design/packaging/07.webp",
+   "thumb": "/media/design/packaging/07-sm.webp",
+   "w": 1448,
+   "h": 1086,
+   "from": "Packaging/Packaging/07.png"
+  },
+  {
+   "src": "/media/design/packaging/08.webp",
+   "thumb": "/media/design/packaging/08-sm.webp",
+   "w": 1448,
+   "h": 1086,
+   "from": "Packaging/Packaging/08.png"
+  },
+  {
+   "src": "/media/design/packaging/09.webp",
+   "thumb": "/media/design/packaging/09-sm.webp",
+   "w": 1448,
+   "h": 1086,
+   "from": "Packaging/Packaging/9.png"
+  },
+  {
+   "src": "/media/design/packaging/10.webp",
+   "thumb": "/media/design/packaging/10-sm.webp",
+   "w": 1448,
+   "h": 1086,
+   "from": "Packaging/Packaging/10.png"
+  },
+  {
+   "src": "/media/design/packaging/11.webp",
+   "thumb": "/media/design/packaging/11-sm.webp",
+   "w": 1254,
+   "h": 1254,
+   "from": "Packaging/Packaging/11.png"
+  }
+ ],
+ "posters": [
+  {
+   "src": "/media/design/posters/01.webp",
+   "thumb": "/media/design/posters/01-sm.webp",
+   "w": 1484,
+   "h": 1060,
+   "from": "poster/Poster/01.png"
+  },
+  {
+   "src": "/media/design/posters/02.webp",
+   "thumb": "/media/design/posters/02-sm.webp",
+   "w": 1484,
+   "h": 1060,
+   "from": "poster/Poster/02.png"
+  },
+  {
+   "src": "/media/design/posters/03.webp",
+   "thumb": "/media/design/posters/03-sm.webp",
+   "w": 1484,
+   "h": 1060,
+   "from": "poster/Poster/03.png"
+  },
+  {
+   "src": "/media/design/posters/04.webp",
+   "thumb": "/media/design/posters/04-sm.webp",
+   "w": 1484,
+   "h": 1060,
+   "from": "poster/Poster/04.png"
+  },
+  {
+   "src": "/media/design/posters/05.webp",
+   "thumb": "/media/design/posters/05-sm.webp",
+   "w": 1536,
+   "h": 1024,
+   "from": "poster/Poster/05.png"
+  },
+  {
+   "src": "/media/design/posters/06.webp",
+   "thumb": "/media/design/posters/06-sm.webp",
+   "w": 1024,
+   "h": 1536,
+   "from": "poster/Poster/06.png"
+  },
+  {
+   "src": "/media/design/posters/07.webp",
+   "thumb": "/media/design/posters/07-sm.webp",
+   "w": 1024,
+   "h": 1536,
+   "from": "poster/Poster/07.png"
+  },
+  {
+   "src": "/media/design/posters/08.webp",
+   "thumb": "/media/design/posters/08-sm.webp",
+   "w": 1024,
+   "h": 1536,
+   "from": "poster/Poster/08.png"
+  },
+  {
+   "src": "/media/design/posters/09.webp",
+   "thumb": "/media/design/posters/09-sm.webp",
+   "w": 1024,
+   "h": 1536,
+   "from": "poster/Poster/09.png"
+  },
+  {
+   "src": "/media/design/posters/10.webp",
+   "thumb": "/media/design/posters/10-sm.webp",
+   "w": 1024,
+   "h": 1536,
+   "from": "poster/Poster/10.png"
+  },
+  {
+   "src": "/media/design/posters/11.webp",
+   "thumb": "/media/design/posters/11-sm.webp",
+   "w": 1024,
+   "h": 1536,
+   "from": "poster/Poster/11.png"
+  },
+  {
+   "src": "/media/design/posters/12.webp",
+   "thumb": "/media/design/posters/12-sm.webp",
+   "w": 1024,
+   "h": 1536,
+   "from": "poster/Poster/12.png"
+  },
+  {
+   "src": "/media/design/posters/13.webp",
+   "thumb": "/media/design/posters/13-sm.webp",
+   "w": 1448,
+   "h": 1086,
+   "from": "poster/Poster/13.png"
+  }
+ ],
+ "signage": [
+  {
+   "src": "/media/design/signage/01.webp",
+   "thumb": "/media/design/signage/01-sm.webp",
+   "w": 1448,
+   "h": 1086,
+   "from": "Signage/Signage/01.png"
+  },
+  {
+   "src": "/media/design/signage/02.webp",
+   "thumb": "/media/design/signage/02-sm.webp",
+   "w": 1448,
+   "h": 1086,
+   "from": "Signage/Signage/02.png"
+  },
+  {
+   "src": "/media/design/signage/03.webp",
+   "thumb": "/media/design/signage/03-sm.webp",
+   "w": 1600,
+   "h": 900,
+   "from": "Signage/Signage/03.png"
+  },
+  {
+   "src": "/media/design/signage/04.webp",
+   "thumb": "/media/design/signage/04-sm.webp",
+   "w": 1600,
+   "h": 900,
+   "from": "Signage/Signage/04.png"
+  },
+  {
+   "src": "/media/design/signage/05.webp",
+   "thumb": "/media/design/signage/05-sm.webp",
+   "w": 1600,
+   "h": 900,
+   "from": "Signage/Signage/05.png"
+  },
+  {
+   "src": "/media/design/signage/06.webp",
+   "thumb": "/media/design/signage/06-sm.webp",
+   "w": 1448,
+   "h": 1086,
+   "from": "Signage/06.png"
+  },
+  {
+   "src": "/media/design/signage/07.webp",
+   "thumb": "/media/design/signage/07-sm.webp",
+   "w": 1600,
+   "h": 900,
+   "from": "Signage/Signage/07.png"
+  },
+  {
+   "src": "/media/design/signage/08.webp",
+   "thumb": "/media/design/signage/08-sm.webp",
+   "w": 1600,
+   "h": 900,
+   "from": "Signage/Signage/8.png"
+  },
+  {
+   "src": "/media/design/signage/09.webp",
+   "thumb": "/media/design/signage/09-sm.webp",
+   "w": 1024,
+   "h": 1536,
+   "from": "Signage/Signage/9.png"
+  },
+  {
+   "src": "/media/design/signage/10.webp",
+   "thumb": "/media/design/signage/10-sm.webp",
+   "w": 1448,
+   "h": 1086,
+   "from": "Signage/Signage/10.png"
+  },
+  {
+   "src": "/media/design/signage/11.webp",
+   "thumb": "/media/design/signage/11-sm.webp",
+   "w": 1600,
+   "h": 900,
+   "from": "Signage/Signage/11.png"
+  },
+  {
+   "src": "/media/design/signage/12.webp",
+   "thumb": "/media/design/signage/12-sm.webp",
+   "w": 1448,
+   "h": 1086,
+   "from": "Signage/Signage/12.png"
+  }
+ ],
+ "social-media": [
+  {
+   "src": "/media/design/social-media/01.webp",
+   "thumb": "/media/design/social-media/01-sm.webp",
+   "w": 1505,
+   "h": 1045,
+   "from": "Social Media/01.png"
+  },
+  {
+   "src": "/media/design/social-media/02.webp",
+   "thumb": "/media/design/social-media/02-sm.webp",
+   "w": 1505,
+   "h": 1045,
+   "from": "Social Media/02.png"
+  },
+  {
+   "src": "/media/design/social-media/03.webp",
+   "thumb": "/media/design/social-media/03-sm.webp",
+   "w": 1505,
+   "h": 1045,
+   "from": "Social Media/03.png"
+  },
+  {
+   "src": "/media/design/social-media/04.webp",
+   "thumb": "/media/design/social-media/04-sm.webp",
+   "w": 1505,
+   "h": 1045,
+   "from": "Social Media/04.png"
+  },
+  {
+   "src": "/media/design/social-media/05.webp",
+   "thumb": "/media/design/social-media/05-sm.webp",
+   "w": 1505,
+   "h": 1045,
+   "from": "Social Media/05.png"
+  },
+  {
+   "src": "/media/design/social-media/06.webp",
+   "thumb": "/media/design/social-media/06-sm.webp",
+   "w": 1505,
+   "h": 1045,
+   "from": "Social Media/06.png"
+  },
+  {
+   "src": "/media/design/social-media/07.webp",
+   "thumb": "/media/design/social-media/07-sm.webp",
+   "w": 1506,
+   "h": 1045,
+   "from": "Social Media/07.png"
+  },
+  {
+   "src": "/media/design/social-media/08.webp",
+   "thumb": "/media/design/social-media/08-sm.webp",
+   "w": 1600,
+   "h": 900,
+   "from": "Social Media/08.png"
+  },
+  {
+   "src": "/media/design/social-media/09.webp",
+   "thumb": "/media/design/social-media/09-sm.webp",
+   "w": 1505,
+   "h": 1045,
+   "from": "Social Media/09.png"
+  },
+  {
+   "src": "/media/design/social-media/10.webp",
+   "thumb": "/media/design/social-media/10-sm.webp",
+   "w": 1506,
+   "h": 1045,
+   "from": "Social Media/10.png"
+  },
+  {
+   "src": "/media/design/social-media/11.webp",
+   "thumb": "/media/design/social-media/11-sm.webp",
+   "w": 1600,
+   "h": 900,
+   "from": "Social Media/11.png"
+  }
+ ],
+ "standees": [
+  {
+   "src": "/media/design/standees/01.webp",
+   "thumb": "/media/design/standees/01-sm.webp",
+   "w": 1536,
+   "h": 1024,
+   "from": "Standee/Standee/01.png"
+  },
+  {
+   "src": "/media/design/standees/02.webp",
+   "thumb": "/media/design/standees/02-sm.webp",
+   "w": 1536,
+   "h": 1024,
+   "from": "Standee/Standee/02.png"
+  },
+  {
+   "src": "/media/design/standees/03.webp",
+   "thumb": "/media/design/standees/03-sm.webp",
+   "w": 1536,
+   "h": 1024,
+   "from": "Standee/Standee/03.png"
+  },
+  {
+   "src": "/media/design/standees/04.webp",
+   "thumb": "/media/design/standees/04-sm.webp",
+   "w": 1536,
+   "h": 1024,
+   "from": "Standee/Standee/04.png"
+  },
+  {
+   "src": "/media/design/standees/05.webp",
+   "thumb": "/media/design/standees/05-sm.webp",
+   "w": 1448,
+   "h": 1086,
+   "from": "Standee/Standee/05.png"
+  },
+  {
+   "src": "/media/design/standees/06.webp",
+   "thumb": "/media/design/standees/06-sm.webp",
+   "w": 1536,
+   "h": 1024,
+   "from": "Standee/Standee/06.png"
+  },
+  {
+   "src": "/media/design/standees/07.webp",
+   "thumb": "/media/design/standees/07-sm.webp",
+   "w": 1145,
+   "h": 1374,
+   "from": "Standee/Standee/07.png"
+  },
+  {
+   "src": "/media/design/standees/08.webp",
+   "thumb": "/media/design/standees/08-sm.webp",
+   "w": 1536,
+   "h": 1024,
+   "from": "Standee/Standee/08.png"
+  },
+  {
+   "src": "/media/design/standees/09.webp",
+   "thumb": "/media/design/standees/09-sm.webp",
+   "w": 1145,
+   "h": 1374,
+   "from": "Standee/Standee/09.png"
+  },
+  {
+   "src": "/media/design/standees/10.webp",
+   "thumb": "/media/design/standees/10-sm.webp",
+   "w": 1144,
+   "h": 1375,
+   "from": "Standee/Standee/10.png"
+  },
+  {
+   "src": "/media/design/standees/11.webp",
+   "thumb": "/media/design/standees/11-sm.webp",
+   "w": 1536,
+   "h": 1024,
+   "from": "Standee/Standee/11.png"
+  },
+  {
+   "src": "/media/design/standees/12.webp",
+   "thumb": "/media/design/standees/12-sm.webp",
+   "w": 1536,
+   "h": 1024,
+   "from": "Standee/Standee/12.png"
+  },
+  {
+   "src": "/media/design/standees/13.webp",
+   "thumb": "/media/design/standees/13-sm.webp",
+   "w": 1536,
+   "h": 1024,
+   "from": "Standee/Standee/13.png"
+  }
+ ]
+}
